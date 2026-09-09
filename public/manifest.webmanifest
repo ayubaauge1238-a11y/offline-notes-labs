@@ -16,6 +16,21 @@
 "any maskable" },
 { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose":
 "any maskable" }
-]
+],
+
+  "screenshots": [
+    {
+      "src": "/desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/mobile.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
 }
 
