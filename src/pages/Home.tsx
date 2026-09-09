@@ -96,6 +96,9 @@ export default function Home() {
       </header>
 
       <aside>
+
+        <p>WORKSHOP MAP</p>
+        
         <p>WORKSHOP MAP</p>
 
         {steps.map((step, index) => (
