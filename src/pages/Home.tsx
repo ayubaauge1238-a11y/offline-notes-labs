@@ -97,7 +97,7 @@ export default function Home() {
 
       <aside>
 
-        <p>WORKSHOP MAP</p>
+
         
         <p>WORKSHOP MAP</p>
 
@@ -118,6 +118,12 @@ export default function Home() {
         <p className="eyebrow">FOUNDATION TRACK</p>
 
         <h1>Keep learning when the network leaves.</h1>
+
+        <div className="author"> 
+          <p>Project By: <i>Obe Fortune Olotu</i> </p>
+          <p>Matric No: <i>2024/1/95114CP</i> </p>
+
+        </div>
 
         <p className="lede">
           Save a note, refresh the page, then test the same experience with

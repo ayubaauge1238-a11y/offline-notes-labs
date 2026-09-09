@@ -351,3 +351,7 @@ form button:hover {
     font-size: 42px;
   }
 }
+
+.author  {
+    padding-top: 12px;
+}
