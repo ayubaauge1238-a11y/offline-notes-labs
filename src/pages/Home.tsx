@@ -120,8 +120,8 @@ export default function Home() {
         <h1>Keep learning when the network leaves.</h1>
 
         <div className="author"> 
-          <p>Project By: <i>Obe Fortune Olotu</i> </p>
-          <p>Matric No: <i>2024/1/95114CP</i> </p>
+          <p>Project By: <i>Ayuba Abdulmajid</i> </p>
+          <p>Matric No: <i>2024/1/98666EE</i> </p>
 
         </div>
 
